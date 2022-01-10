@@ -1,0 +1,3 @@
+name = "CubeLDFAModel"
+uuid = "56146587-2a70-4d59-809c-88d5ba27a8d3"
+repo = "https://github.com/NQCD/CubeLDFAModel.jl"

@@ -3,5 +3,6 @@ uuid = "8e22b3bd-71eb-4318-acc2-26d9931dd421"
 repo = "https://github.com/NQCD/NQCRegistry"
 
 [packages]
+56146587-2a70-4d59-809c-88d5ba27a8d3 = { name = "CubeLDFAModel", path = "C/CubeLDFAModel" }
 78c76ebc-5665-4934-b512-82d81b5cbfb7 = { name = "NQCBase", path = "N/NQCBase" }
 c814dc9f-a51f-4eaf-877f-82eda4edad48 = { name = "NQCModels", path = "N/NQCModels" }
