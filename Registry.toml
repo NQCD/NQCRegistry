@@ -3,6 +3,7 @@ uuid = "8e22b3bd-71eb-4318-acc2-26d9931dd421"
 repo = "https://github.com/NQCD/NQCRegistry"
 
 [packages]
+07253886-9aba-4a5d-b3d5-29b8b100a664 = { name = "NNInterfaces", path = "N/NNInterfaces" }
 56146587-2a70-4d59-809c-88d5ba27a8d3 = { name = "CubeLDFAModel", path = "C/CubeLDFAModel" }
 78c76ebc-5665-4934-b512-82d81b5cbfb7 = { name = "NQCBase", path = "N/NQCBase" }
 a822e7dc-5958-54de-9eb2-fa386864eb49 = { name = "H2AgModel_jll", path = "H/H2AgModel_jll" }
