@@ -1,0 +1,5 @@
+name = "NQCRegistry"
+uuid = "8e22b3bd-71eb-4318-acc2-26d9931dd421"
+repo = "https://github.com/NQCD/NQCRegistry"
+
+[packages]
