@@ -3,3 +3,4 @@ uuid = "8e22b3bd-71eb-4318-acc2-26d9931dd421"
 repo = "https://github.com/NQCD/NQCRegistry"
 
 [packages]
+78c76ebc-5665-4934-b512-82d81b5cbfb7 = { name = "NQCBase", path = "N/NQCBase" }
