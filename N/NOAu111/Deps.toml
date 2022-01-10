@@ -1,0 +1,11 @@
+[0]
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NQCBase = "78c76ebc-5665-4934-b512-82d81b5cbfb7"
+NQCModels = "c814dc9f-a51f-4eaf-877f-82eda4edad48"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
