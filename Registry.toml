@@ -4,3 +4,4 @@ repo = "https://github.com/NQCD/NQCRegistry"
 
 [packages]
 78c76ebc-5665-4934-b512-82d81b5cbfb7 = { name = "NQCBase", path = "N/NQCBase" }
+c814dc9f-a51f-4eaf-877f-82eda4edad48 = { name = "NQCModels", path = "N/NQCModels" }
