@@ -4,6 +4,7 @@ repo = "https://github.com/NQCD/NQCRegistry"
 
 [packages]
 07253886-9aba-4a5d-b3d5-29b8b100a664 = { name = "NNInterfaces", path = "N/NNInterfaces" }
+36248dfb-79eb-4f4d-ab9c-e29ea5f33e14 = { name = "NQCDynamics", path = "N/NQCDynamics" }
 56146587-2a70-4d59-809c-88d5ba27a8d3 = { name = "CubeLDFAModel", path = "C/CubeLDFAModel" }
 78c76ebc-5665-4934-b512-82d81b5cbfb7 = { name = "NQCBase", path = "N/NQCBase" }
 99977979-b085-4ef1-bf27-0f203366d47f = { name = "NOAu111", path = "N/NOAu111" }
