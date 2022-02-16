@@ -8,5 +8,10 @@ StaticArrays = "1"
 Unitful = "1"
 UnitfulAtomic = "1"
 UnitfulRecipes = "1"
-Zygote = "0.6"
 julia = "1.7.0-1"
+
+["0-0.8.3"]
+Zygote = "0.6"
+
+["0.8.4-0"]
+ForwardDiff = "0.10"
