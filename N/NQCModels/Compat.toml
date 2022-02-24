@@ -1,5 +1,4 @@
 [0]
-NQCBase = "0.1"
 Parameters = "0.12"
 RecipesBase = "1"
 Reexport = "1"
@@ -13,5 +12,11 @@ julia = "1.7.0-1"
 ["0-0.8.3"]
 Zygote = "0.6"
 
+["0-0.8.5"]
+NQCBase = "0.1"
+
 ["0.8.4-0"]
 ForwardDiff = "0.10"
+
+["0.8.6-0"]
+NQCBase = "0.1-0.2"
