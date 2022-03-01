@@ -9,7 +9,6 @@ Distributions = "0.25"
 FastBroadcast = "0.1"
 LsqFit = "0.12"
 MuladdMacro = "0.2"
-NQCBase = "0.1"
 NQCModels = "0.8"
 Optim = "1"
 OrdinaryDiffEq = "5-6"
@@ -34,8 +33,14 @@ UnitfulAtomic = "1"
 UnitfulRecipes = "1"
 julia = "1.7.0-1"
 
+["0-0.9"]
+NQCBase = "0.1"
+
 ["0-0.9.3"]
 HDF5 = "0.15"
+
+["0.10-0"]
+NQCBase = "0.2"
 
 ["0.9.4-0"]
 HDF5 = "0.15-0.16"
