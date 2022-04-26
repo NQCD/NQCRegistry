@@ -7,6 +7,7 @@ repo = "https://github.com/NQCD/NQCRegistry"
 36248dfb-79eb-4f4d-ab9c-e29ea5f33e14 = { name = "NQCDynamics", path = "N/NQCDynamics" }
 56146587-2a70-4d59-809c-88d5ba27a8d3 = { name = "CubeLDFAModel", path = "C/CubeLDFAModel" }
 78c76ebc-5665-4934-b512-82d81b5cbfb7 = { name = "NQCBase", path = "N/NQCBase" }
+81cd853e-d334-476c-b156-f95acc8a32dc = { name = "RingPolymerArrays", path = "R/RingPolymerArrays" }
 99977979-b085-4ef1-bf27-0f203366d47f = { name = "NOAu111", path = "N/NOAu111" }
 a822e7dc-5958-54de-9eb2-fa386864eb49 = { name = "H2AgModel_jll", path = "H/H2AgModel_jll" }
 c814dc9f-a51f-4eaf-877f-82eda4edad48 = { name = "NQCModels", path = "N/NQCModels" }
