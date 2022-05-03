@@ -54,5 +54,9 @@ Roots = "1"
 Interpolations = "0.13"
 Roots = "1-2"
 
+["0.11-0"]
+NQCDistributions = "0.1"
+RingPolymerArrays = "0.1"
+
 ["0.9.4-0"]
 HDF5 = "0.15-0.16"
