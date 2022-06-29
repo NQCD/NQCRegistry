@@ -15,6 +15,9 @@ Zygote = "0.6"
 ["0-0.8.5"]
 NQCBase = "0.1"
 
+["0.8.11-0"]
+FastGaussQuadrature = "0.4"
+
 ["0.8.4-0"]
 ForwardDiff = "0.10"
 
