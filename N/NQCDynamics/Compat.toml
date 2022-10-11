@@ -3,7 +3,6 @@ AdvancedHMC = "0.3"
 AdvancedMH = "0.6"
 DEDataArrays = "0.2"
 DiffEqBase = "6"
-DiffEqCallbacks = "2.16.0-2"
 Distributions = "0.25"
 MuladdMacro = "0.2"
 NQCModels = "0.8"
@@ -22,16 +21,19 @@ StaticArrays = "1"
 StatsBase = "0.33"
 StochasticDiffEq = "6"
 StructArrays = "0.6"
-TypedTables = "1"
 UnPack = "1"
-UnicodePlots = "2"
 Unitful = "1"
 UnitfulAtomic = "1"
-UnitfulRecipes = "1"
 julia = "1.7.0-1"
 
 ["0-0.10.3"]
 LsqFit = "0.12"
+
+["0-0.11"]
+DiffEqCallbacks = "2.16.0-2"
+TypedTables = "1"
+UnicodePlots = "2"
+UnitfulRecipes = "1"
 
 ["0-0.11.0"]
 ComponentArrays = "0.11"
@@ -53,16 +55,26 @@ TimerOutputs = "0.5"
 Roots = "1"
 
 ["0.10.4-0"]
-Interpolations = "0.13"
 Roots = "1-2"
+
+["0.10.4-0.11"]
+Interpolations = "0.13"
 
 ["0.11-0"]
 NQCDistributions = "0.1"
 RingPolymerArrays = "0.1"
 
 ["0.11.1-0"]
-ComponentArrays = "0.11-0.12"
 FastBroadcast = "0.1-0.2"
+
+["0.11.1-0.11"]
+ComponentArrays = "0.11-0.12"
+
+["0.12-0"]
+ComponentArrays = "0.11-0.13"
+Dictionaries = "0.3"
+Interpolations = "0.13-0.14"
+UnicodePlots = "2-3"
 
 ["0.9.4-0"]
 HDF5 = "0.15-0.16"
