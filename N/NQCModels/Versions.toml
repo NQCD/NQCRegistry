@@ -54,3 +54,6 @@ git-tree-sha1 = "e22fdb737bd78ec315e02342f9b9e8eaa7dee2cf"
 
 ["0.8.18"]
 git-tree-sha1 = "d8a32efe23567be9287dd8267b7564b7c88fbbc5"
+
+["0.8.19"]
+git-tree-sha1 = "4ca94e3f5051294985ea32eb345f7466261295b8"
