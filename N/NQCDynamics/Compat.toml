@@ -76,5 +76,8 @@ Dictionaries = "0.3"
 Interpolations = "0.13-0.14"
 UnicodePlots = "2-3"
 
+["0.12.1-0"]
+FastLapackInterface = "1"
+
 ["0.9.4-0"]
 HDF5 = "0.15-0.16"

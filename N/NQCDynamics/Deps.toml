@@ -53,3 +53,6 @@ RingPolymerArrays = "81cd853e-d334-476c-b156-f95acc8a32dc"
 
 ["0.12-0"]
 Dictionaries = "85a47980-9c8c-11e8-2b9f-f7ca1fa99fb4"
+
+["0.12.1-0"]
+FastLapackInterface = "29a986be-02c6-4525-aec4-84b980013641"
