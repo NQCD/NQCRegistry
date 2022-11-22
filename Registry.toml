@@ -5,6 +5,7 @@ repo = "https://github.com/NQCD/NQCRegistry"
 [packages]
 07253886-9aba-4a5d-b3d5-29b8b100a664 = { name = "NNInterfaces", path = "N/NNInterfaces" }
 0e168e98-d76b-4d03-b07e-2b13986b2fd0 = { name = "FrictionProvidersLDFA", path = "F/FrictionProvidersLDFA" }
+1c79c530-3a9d-43cd-822f-bba4c4e182d2 = { name = "FortranNOAu111", path = "F/FortranNOAu111" }
 36248dfb-79eb-4f4d-ab9c-e29ea5f33e14 = { name = "NQCDynamics", path = "N/NQCDynamics" }
 56146587-2a70-4d59-809c-88d5ba27a8d3 = { name = "CubeLDFAModel", path = "C/CubeLDFAModel" }
 657014a1-bd25-4aa2-92cb-cbcede0310ad = { name = "NQCDistributions", path = "N/NQCDistributions" }
