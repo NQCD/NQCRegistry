@@ -1,0 +1,3 @@
+name = "EANNCOAuModel"
+uuid = "e503717d-a42a-4366-b4a7-cbf3fd5bcc4b"
+repo = "https://github.com/NQCD/EANNCOAuModel.jl"
