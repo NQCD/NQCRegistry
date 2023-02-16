@@ -1,6 +1,4 @@
 [0]
-AdvancedHMC = "0.3"
-AdvancedMH = "0.6"
 DEDataArrays = "0.2"
 DiffEqBase = "6"
 Distributions = "0.25"
@@ -38,6 +36,10 @@ UnitfulRecipes = "1"
 ["0-0.11.0"]
 ComponentArrays = "0.11"
 FastBroadcast = "0.1"
+
+["0-0.13.0"]
+AdvancedHMC = "0.3"
+AdvancedMH = "0.6"
 
 ["0-0.9"]
 NQCBase = "0.1"
@@ -78,6 +80,10 @@ UnicodePlots = "2-3"
 
 ["0.12.1-0"]
 FastLapackInterface = "1"
+
+["0.13.1-0"]
+AdvancedHMC = "0.3-0.4"
+AdvancedMH = "0.6-0.7"
 
 ["0.9.4-0"]
 HDF5 = "0.15-0.16"
