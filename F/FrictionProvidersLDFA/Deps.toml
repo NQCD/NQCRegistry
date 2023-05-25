@@ -1,8 +1,0 @@
-[0]
-DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
-DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
-NQCBase = "78c76ebc-5665-4934-b512-82d81b5cbfb7"
-NQCModels = "c814dc9f-a51f-4eaf-877f-82eda4edad48"
-StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
-Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
-UnitfulAtomic = "a7773ee8-282e-5fa2-be4e-bd808c38a91a"
