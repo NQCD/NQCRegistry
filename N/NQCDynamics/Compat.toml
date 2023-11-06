@@ -14,9 +14,7 @@ RecipesBase = "1"
 RecursiveArrayTools = "2"
 Reexport = "1"
 Rotations = "1"
-SciMLBase = "1"
 StaticArrays = "1"
-StatsBase = "0.33"
 StochasticDiffEq = "6"
 StructArrays = "0.6"
 UnPack = "1"
@@ -40,6 +38,10 @@ FastBroadcast = "0.1"
 ["0-0.13.0"]
 AdvancedHMC = "0.3"
 AdvancedMH = "0.6"
+
+["0-0.13.3"]
+SciMLBase = "1"
+StatsBase = "0.33"
 
 ["0-0.9"]
 NQCBase = "0.1"
@@ -73,17 +75,28 @@ FastBroadcast = "0.1-0.2"
 ComponentArrays = "0.11-0.12"
 
 ["0.12-0"]
-ComponentArrays = "0.11-0.13"
 Dictionaries = "0.3"
 Interpolations = "0.13-0.14"
 UnicodePlots = "2-3"
 
-["0.12.1-0"]
+["0.12-0.13.3"]
+ComponentArrays = "0.11-0.13"
+
+["0.12.1-0.13.3"]
 FastLapackInterface = "1"
 
-["0.13.1-0"]
+["0.13.1-0.13.3"]
 AdvancedHMC = "0.3-0.4"
 AdvancedMH = "0.6-0.7"
 
-["0.9.4-0"]
+["0.13.4-0"]
+AdvancedHMC = "0.5-0.6"
+AdvancedMH = "0.6-0.8"
+ComponentArrays = "0.11-0.15"
+FastLapackInterface = "1-2"
+HDF5 = "0.15-0.17"
+SciMLBase = "1-2"
+StatsBase = "0.33-0.34"
+
+["0.9.4-0.13.3"]
 HDF5 = "0.15-0.16"
