@@ -20,8 +20,11 @@ NQCBase = "0.1"
 ["0.8.11-0.8.18"]
 FastGaussQuadrature = "0.4"
 
-["0.8.19-0"]
+["0.8.19"]
 FastGaussQuadrature = "0.4-0.5"
+
+["0.8.20-0"]
+FastGaussQuadrature = ["0.4-0.5", "1"]
 
 ["0.8.4-0"]
 ForwardDiff = "0.10"
