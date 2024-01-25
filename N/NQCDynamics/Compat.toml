@@ -89,14 +89,20 @@ FastLapackInterface = "1"
 AdvancedHMC = "0.3-0.4"
 AdvancedMH = "0.6-0.7"
 
+["0.13.4"]
+AdvancedMH = "0.6-0.8"
+
 ["0.13.4-0"]
 AdvancedHMC = "0.5-0.6"
-AdvancedMH = "0.6-0.8"
 ComponentArrays = "0.11-0.15"
 FastLapackInterface = "1-2"
 HDF5 = "0.15-0.17"
 SciMLBase = "1-2"
 StatsBase = "0.33-0.34"
+
+["0.13.5-0"]
+AdvancedMH = "0.8"
+MKL_jll = "2023"
 
 ["0.9.4-0.13.3"]
 HDF5 = "0.15-0.16"
