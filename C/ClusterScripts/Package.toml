@@ -1,0 +1,3 @@
+name = "ClusterScripts"
+uuid = "0afbe08e-4e50-452c-a3af-5975c91048e8"
+repo = "git@github.com:NQCD/ClusterScripts.jl.git"
