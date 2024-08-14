@@ -1,8 +1,13 @@
 [0]
 H2AgModel_jll = "0.1"
-NQCModels = "0.8"
 PeriodicTable = "1"
 Reexport = "1"
 Unitful = "1"
 UnitfulAtomic = "1"
 julia = "1"
+
+["0-0.2.4"]
+NQCModels = "0.8"
+
+["0.2.5-0"]
+NQCModels = "0.8-0.9"
