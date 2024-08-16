@@ -59,3 +59,6 @@ FastLapackInterface = "29a986be-02c6-4525-aec4-84b980013641"
 
 ["0.13.5-0"]
 MKL_jll = "856f044c-d86e-5d09-b602-aeab76dc8ba7"
+
+["0.14-0"]
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
