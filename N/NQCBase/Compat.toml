@@ -1,15 +1,23 @@
 [0]
 Distances = "0.10"
-ExtXYZ = "0.1"
 PeriodicTable = "1"
 Requires = "1"
 Unitful = "1"
 UnitfulAtomic = "1"
 julia = "1"
 
-["0-0.1"]
+["0 - 0.1"]
 StaticArrays = "1"
 
-["0.2.1-0"]
-AtomsBase = "0.3"
+["0 - 0.2.9"]
+ExtXYZ = "0.1"
+
+["0.2.1 - 0"]
 StaticArraysCore = "1"
+
+["0.2.1 - 0.2.9"]
+AtomsBase = "0.3"
+
+["0.2.10 - 0"]
+AtomsBase = "0.4"
+ExtXYZ = "0.2"
