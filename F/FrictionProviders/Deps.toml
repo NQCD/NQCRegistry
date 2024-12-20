@@ -10,5 +10,5 @@ UnitfulAtomic = "a7773ee8-282e-5fa2-be4e-bd808c38a91a"
 ["0.1.3 - 0"]
 JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
 
-["0.1.5 - 0"]
+["0.1.5"]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"

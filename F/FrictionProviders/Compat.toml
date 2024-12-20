@@ -12,8 +12,13 @@ NQCModels = "0.8"
 ["0.1.3 - 0.1.4"]
 JuLIP = "0.13-0.14"
 
+["0.1.5"]
+NQCModels = "0.8.30 - 0.9"
+
 ["0.1.5 - 0"]
 DataInterpolations = "3 - 4"
 JuLIP = "0.13 - 0.14"
 NQCBase = "0.1 - 0.2"
-NQCModels = "0.8.30 - 0.9"
+
+["0.1.6 - 0"]
+NQCModels = "0.9"
