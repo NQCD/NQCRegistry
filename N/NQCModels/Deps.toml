@@ -10,22 +10,24 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 UnitfulAtomic = "a7773ee8-282e-5fa2-be4e-bd808c38a91a"
 
-["0-0.8.17"]
+["0 - 0.8.17"]
 UnitfulRecipes = "42071c24-d89e-48dd-8a24-8a12d9b8861f"
 
-["0-0.8.3"]
+["0 - 0.8.3"]
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
-["0.8.11-0"]
+["0.8.11 - 0"]
 FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
 
-["0.8.20-0"]
-ASEconvert = "3da9722f-58c2-4165-81be-b4d7253e8fd2"
+["0.8.20 - 0"]
 AtomsBase = "a963bdd2-2df7-4f54-a1ee-49d51e6be12a"
 
-["0.8.4-0"]
+["0.8.20 - 0.9.0"]
+ASEconvert = "3da9722f-58c2-4165-81be-b4d7253e8fd2"
+
+["0.8.4 - 0"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 
-["0.9-0"]
+["0.9 - 0"]
 PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
