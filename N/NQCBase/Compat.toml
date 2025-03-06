@@ -18,6 +18,10 @@ StaticArraysCore = "1"
 ["0.2.1 - 0.2.9"]
 AtomsBase = "0.3"
 
-["0.2.10 - 0"]
+["0.2.10"]
 AtomsBase = "0.4"
 ExtXYZ = "0.2"
+
+["0.2.11 - 0"]
+AtomsBase = "0.3"
+ExtXYZ = "0.1"
