@@ -1,0 +1,6 @@
+[1]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NQCBase = "78c76ebc-5665-4934-b512-82d81b5cbfb7"
+NQCModels = "c814dc9f-a51f-4eaf-877f-82eda4edad48"
+RingPolymerArrays = "81cd853e-d334-476c-b156-f95acc8a32dc"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
