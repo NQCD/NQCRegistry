@@ -26,6 +26,11 @@ ExtXYZ = "0.2"
 AtomsBase = "0.3"
 ExtXYZ = "0.1"
 
-["0.3 - 0"]
+["0.3"]
 AtomsBase = "0.4"
+
+["0.3 - 0"]
 ExtXYZ = "0.2"
+
+["0.5 - 0"]
+AtomsBase = "0.5"
