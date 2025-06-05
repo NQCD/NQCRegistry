@@ -9,6 +9,7 @@ repo = "https://github.com/NQCD/NQCRegistry"
 1c79c530-3a9d-43cd-822f-bba4c4e182d2 = { name = "FortranNOAu111", path = "F/FortranNOAu111" }
 29bafc4c-4f38-420f-a153-8a5a5e0bd5f6 = { name = "MACEModels", path = "M/MACEModels" }
 36248dfb-79eb-4f4d-ab9c-e29ea5f33e14 = { name = "NQCDynamics", path = "N/NQCDynamics" }
+4606675f-2246-4a0b-99d5-75b910de637b = { name = "NQCDInterfASE", path = "N/NQCDInterfASE" }
 56146587-2a70-4d59-809c-88d5ba27a8d3 = { name = "CubeLDFAModel", path = "C/CubeLDFAModel" }
 657014a1-bd25-4aa2-92cb-cbcede0310ad = { name = "NQCDistributions", path = "N/NQCDistributions" }
 78c76ebc-5665-4934-b512-82d81b5cbfb7 = { name = "NQCBase", path = "N/NQCBase" }
