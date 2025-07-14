@@ -1,21 +1,5 @@
 [0]
 DEDataArrays = "0.2"
-DiffEqBase = "6"
-Distributions = "0.25"
-MuladdMacro = "0.2"
-Optim = "1"
-Parameters = "0.12"
-PeriodicTable = "1"
-ProgressMeter = "1"
-QuadGK = "2"
-RecipesBase = "1"
-Reexport = "1"
-Rotations = "1"
-StaticArrays = "1"
-StochasticDiffEq = "6"
-UnPack = "1"
-Unitful = "1"
-UnitfulAtomic = "1"
 
 ["0 - 0.10.3"]
 LsqFit = "0.12"
@@ -55,14 +39,32 @@ NQCBase = "0.1"
 ["0 - 0.9.3"]
 HDF5 = "0.15"
 
+["0 - 1"]
+DiffEqBase = "6"
+Distributions = "0.25"
+MuladdMacro = "0.2"
+Optim = "1"
+Parameters = "0.12"
+PeriodicTable = "1"
+ProgressMeter = "1"
+QuadGK = "2"
+RecipesBase = "1"
+Reexport = "1"
+Rotations = "1"
+StaticArrays = "1"
+StochasticDiffEq = "6"
+UnPack = "1"
+Unitful = "1"
+UnitfulAtomic = "1"
+
 ["0.10 - 0"]
 NQCBase = "0.2"
 
-["0.10.2 - 0"]
-TimerOutputs = "0.5"
-
 ["0.10.2 - 0.10.3"]
 Roots = "1"
+
+["0.10.2 - 1"]
+TimerOutputs = "0.5"
 
 ["0.10.4 - 0.11"]
 Interpolations = "0.13"
@@ -108,11 +110,11 @@ HDF5 = "0.15-0.17"
 SciMLBase = "1-2"
 StatsBase = "0.33-0.34"
 
-["0.13.5 - 0"]
-AdvancedMH = "0.8"
-
 ["0.13.5 - 0.14"]
 MKL_jll = "2023"
+
+["0.13.5 - 1"]
+AdvancedMH = "0.8"
 
 ["0.14"]
 Dictionaries = "0.3-0.4"
@@ -121,29 +123,43 @@ RecursiveArrayTools = "2-3"
 
 ["0.14 - 0"]
 NQCModels = "0.9"
+
+["0.14 - 1"]
 Statistics = "1"
 
 ["0.15 - 0"]
+Interpolations = "0.13 - 0.15"
+julia = "1.9.0 - *"
+
+["0.15 - 1"]
 AdvancedHMC = "0.5 - 0.6"
 ComponentArrays = "0.11 - 0.15"
 Dictionaries = "0.3 - 0.4"
 FastLapackInterface = "1 - 2"
 HDF5 = "0.15 - 0.17"
-Interpolations = "0.13 - 0.15"
 OrdinaryDiffEq = "5 - 6"
 RecursiveArrayTools = "2 - 3"
 Roots = "1 - 2"
 SciMLBase = "1 - 2"
 StatsBase = "0.33 - 0.34"
 UnicodePlots = "2 - 3"
-julia = "1.9.0 - *"
 
 ["0.15.0"]
 FastBroadcast = "0.1 - 0.2"
 
-["0.15.1 - 0"]
+["0.15.1 - 1"]
 FastBroadcast = "0.1 - 0.3"
 StructArrays = "0.6 - 0.7"
 
 ["0.9.4 - 0.13.3"]
 HDF5 = "0.15-0.16"
+
+[1]
+Interpolations = "0.13 - 0.16"
+NQCBase = ["0.5", "1"]
+NQCCalculators = "1"
+NQCDistributions = ["0.1", "1"]
+NQCModels = ["0.10", "1"]
+RingPolymerArrays = ["0.1", "1"]
+SciMLOperators = "1"
+julia = "1"
