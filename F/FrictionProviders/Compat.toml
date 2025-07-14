@@ -31,6 +31,10 @@ LinearAlgebra = "1.11.0 - 1"
 ["0.1.7 - 1"]
 PythonCall = "0.9"
 
-[1]
+["1.0.0"]
 NQCBase = "0.2 - 0.5"
 NQCModels = "0.10"
+
+["1.0.1 - 1"]
+NQCBase = ["0.5", "1"]
+NQCModels = ["0.10", "1"]
